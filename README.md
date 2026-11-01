@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Autonomous Playwright MCP Server 🚀
 
 A custom [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) server built with **Playwright**, **FastMCP / MCPServer**, and **Self-Healing LLM runtime execution**.
@@ -358,3 +359,6 @@ LLM_MODEL=qwen2.5-coder-7b-instruct
 | `make run-stdio` | Run in Stdio mode via Docker |
 | `make test-mcp` | Test if HTTP `/mcp` endpoint is responding |
 | `make clean` | Clean build and cache files |
+=======
+# custom-mcp
+>>>>>>> 740d6d7e7e36a032143fbc915f42eadc7348b1bf
